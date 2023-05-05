@@ -225,5 +225,5 @@ plugins:
   - jemoji
   - jekyll-remote-theme
 
-theme: jekyll-text-theme
+# theme: jekyll-text-theme
 remote_theme: kitian616/jekyll-TeXt-theme
