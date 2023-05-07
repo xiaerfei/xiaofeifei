@@ -2,36 +2,11 @@
 title: 线性代数复习
 tags: 计算机图形
 Mermaid: true
+Mathjax: true
 ---
 
-
-
-## 点乘在图形学的应用
-
-
-AB = \|A\| \|B\| cosθ
-{:.info}
-
-- 点乘主要应用于求两个单位向量的夹角;
-- 观察两个向量之间是同向、垂直还是反向，可以观察两个向量的接近，若两个向量的点乘接近1则离得很近，若接近0则离得很远;
-- 利用投影可将一个向量分解成两个（多个）向量和
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<object data="{{ site.baseurl }}/assets/images/games101/GAMES101_Lecture_02.pdf" type="application/pdf" width="1200px" height="700px">
+</object>
 
 ## 参考
 
