@@ -5,8 +5,18 @@ Mermaid: true
 Mathjax: true
 ---
 
-<object data="{{ site.baseurl }}/assets/images/games101/GAMES101_Lecture_02.pdf" type="application/pdf" width="1200px" height="700px">
-</object>
+## 向量
+
+- 向量的定义
+- 向量的模
+- 向量的加法(平行四边形和三角形法则)
+- 向量的点乘以及特性
+- 向量点乘在图形学中的应用(判断大致的方向)
+- 向量叉乘以及特性
+- 向量叉乘在图形学中的应用(判断一个点是否在三角形内)
+
+## 矩阵
+- 矩阵的基本运算(相乘)
 
 ## 参考
 
