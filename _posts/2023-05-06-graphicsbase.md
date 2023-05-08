@@ -29,3 +29,5 @@ Mathjax: true
 [向量点乘（内积）和叉乘（外积、向量积）概念及几何意义解读](https://blog.csdn.net/dcrmg/article/details/52416832)
 
 [向量点乘与叉乘的概念及几何意义](https://zhuanlan.zhihu.com/p/359975221)
+
+[向量几何在游戏编程中的使用1](https://blog.csdn.net/popy007/article/details/376934?spm=1001.2014.3001.5502)
