@@ -31,3 +31,9 @@ Mathjax: true
 [向量点乘与叉乘的概念及几何意义](https://zhuanlan.zhihu.com/p/359975221)
 
 [向量几何在游戏编程中的使用1](https://blog.csdn.net/popy007/article/details/376934?spm=1001.2014.3001.5502)
+
+[推导相机变换矩阵](https://blog.csdn.net/popy007/article/details/5120158)
+
+[GAMES101 作业问题整理](https://zhuanlan.zhihu.com/p/375391720)
+
+[一篇搞定！GAMES101现代计算机图形学入门（全）](https://zhuanlan.zhihu.com/p/394932478)
