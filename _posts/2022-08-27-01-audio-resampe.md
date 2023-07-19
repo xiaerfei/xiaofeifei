@@ -1,5 +1,5 @@
 ---
-title: FFPeg 音频
+title: FFMPeg 音频
 tags: FFMpeg
 ---
 ### 一些概念
