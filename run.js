@@ -61,3 +61,7 @@ if (commend == 'commit') {
     }
 }
 
+/*
+    在本地测试：node run.js debug
+    推送到远端：node run.js commit "代码提交注释"
+*/
